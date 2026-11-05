@@ -1,4 +1,4 @@
-# international_teacher_pta  
+# AP_teacher_pta  
 
 兼职国际教培老师：AP统计学 --> AP经济学 --> AP心理学  
 
